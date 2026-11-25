@@ -1,0 +1,11 @@
+# Never commit real chat exports
+*.zip
+!demo/*.zip
+WhatsApp*.txt
+_chat.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
